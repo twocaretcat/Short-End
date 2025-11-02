@@ -4,7 +4,7 @@ author: John Goodliff
 description: 'An experimental client-side URL shortener'
 # Used by Jekyll
 url: 'l.johng.io'
-github_url: 'https://github.com/jerboa88/short-end'
+github_url: 'https://github.com/twocaretcat/short-end'
 privacy_policy_url: 'https://johng.io/privacy-policy'
 
 # Build settings

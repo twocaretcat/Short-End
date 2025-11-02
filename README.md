@@ -11,10 +11,10 @@
 		</a>
 		<img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
 		<img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-		<img src="https://img.shields.io/github/languages/top/jerboa88/Short-End.svg" alt="Language" title="Language">
-		<img src="https://img.shields.io/github/repo-size/jerboa88/Short-End.svg" alt="Repository size" title="Repository size">
+		<img src="https://img.shields.io/github/languages/top/twocaretcat/Short-End.svg" alt="Language" title="Language">
+		<img src="https://img.shields.io/github/repo-size/twocaretcat/Short-End.svg" alt="Repository size" title="Repository size">
 		<a href="LICENSE">
-			<img src="https://img.shields.io/github/license/jerboa88/Short-End.svg" alt="Project license" title="Project license"/>
+			<img src="https://img.shields.io/github/license/twocaretcat/Short-End.svg" alt="Project license" title="Project license"/>
 		</a>
 			<a href="https://l.johng.io" title="Short End - URL Shortener">
 			<img src="https://img.shields.io/website?url=https%3A%2F%2Fl.johng.io&up_message=l.johng.io%20%E2%86%97" alt="Project URL" title="Project URL">
@@ -48,12 +48,12 @@ If you don't already have Ruby installed, refer to the [Ruby documentation] for 
 ## 🕹️ Usage
 ID to target URL mappings are defined using Markdown files in the `_links` directory. Each file represents a single link, where the filename is the ID of the link, and the target URL is defined using the `to` key in the YAML front matter.
 
-In the following example, the link `/github` will redirect to `https://github.com/jerboa88`:
+In the following example, the link `/github` will redirect to `https://github.com/twocaretcat`:
 
 ```yml
 # _links/github.md
 ---
-to: https://github.com/jerboa88
+to: https://github.com/twocaretcat
 ---
 ```
 
